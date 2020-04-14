@@ -3,9 +3,8 @@
 
 ### Overview
 - Books
-  - Free book on Bayesian Inference written in Jupyter Notebooks - [Bayesian Methods for Hackers](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)() *Cam Davidson-Pilon (the main author)*
+  - Free book on Bayesian Inference written in Jupyter Notebooks - [Bayesian Methods for Hackers](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/) *Cam Davidson-Pilon (the main author)*
   - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf) (2020) *Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin*
-
 
 ### Markov chain Monte Carlo (MCMC)
 - **MH** Metropolis–Hastings algorithm
@@ -20,6 +19,7 @@
 ### Approximate Bayesian Computation (ABC)
   - [Approximate Bayesian Computation(ABC) in practice](http://membres-timc.imag.fr/Olivier.Francois/CsilleryTREE10.pdf) (2010) *Katalin Csillery, Michael G.B. Blum, Oscar E. Gaggiotti, Olivier Francois*
   - [Hamiltonian ABC](https://deepai.org/publication/hamiltonian-abc)
+
 ### Variational Inference (VI)
   - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) (2018) *David M. Blei, Alp Kucukelbir, Jon D. McAuliffe*
 
