@@ -30,6 +30,9 @@
   - [Reliable ABC model choice via random forests](https://academic.oup.com/bioinformatics/article/32/6/859/1744513) (2016) *Pierre Pudlo, Jean-Michel Marin, Arnaud Estoup, Jean-Marie Cornuet, Mathieu Gautier, Christian P. Robert*
 
 ### Variational Inference (VI)
+  - [Bayesian parameter estimation viavariational methods](http://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/Variational/JaakkolaJordan2000.pdf) (1999) *T.S. Jaakkola, M.I. Jordan*
+  - [The Variational Gaussian Approximation Revisited](http://www0.cs.ucl.ac.uk/staff/C.Archambeau/publ/neco_mo09_web.pdf) (2009) *Manfred Opper, Cedric Archambeau*
+  - [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://proceedings.mlr.press/v32/titsias14.pdf) (2014) *Michalis K. Titsias, Miguel Lazaro-Gredilla*
   - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) (2018) *David M. Blei, Alp Kucukelbir, Jon D. McAuliffe*
 
 ### Software
