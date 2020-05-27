@@ -35,6 +35,19 @@
   - [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://proceedings.mlr.press/v32/titsias14.pdf) (2014) *Michalis K. Titsias, Miguel Lazaro-Gredilla*
   - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) (2018) *David M. Blei, Alp Kucukelbir, Jon D. McAuliffe*
 
+### Gaussian processes
+  - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) (2006) *Carl E. Rasmussen, Christopher K. I. Williams*
+
+### Uncertainty calibration
+  - [The Well-Calibrated Bayesian](http://fitelson.org/seminar/dawid.pdf) (1982) *A.P. Dawid*
+  - [Transforming Classifier Scores into Accurate Multiclass Probability Estimates](https://www.researchgate.net/publication/2571315_Transforming_Classifier_Scores_into_Accurate_Multiclass_Probability_Estimates) (2002) *Bianca Zadrozny, Charles Elkan*
+  - [Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf) (2005) *Alexandru Niculescu-Mizil, Rich Caruana*
+  - [Nearly-Isotonic Regression](http://www.stat.cmu.edu/~ryantibs/papers/neariso.pdf) (2011) *Ryan J. Tibshirani, Holger Hoefling, Robert Tibshirani*
+  - [Binary classifier calibration using an ensemble of piecewise linear regression models](https://www.dbmi.pitt.edu/sites/default/files/Naeini_0.pdf) (2012) *Mahdi Pakdaman Naeini, Gregory F. Cooper*
+  - [Beta calibration: a well-founded and easily implemented improvement on logistic calibration for binary classifiers](https://research-information.bris.ac.uk/files/106625004/2017_aistats_beta_calibration_camera_ready.pdf) (2017) *Meelis Kull, Telmo de Menezes e Silva Filho, Peter Flach*
+  - [Verified Uncertainty Calibration](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration.pdf) (2019) *Ananya Kumar, Percy Liang, Tengyu Ma*
+  - [Improving Regression Uncertainty Estimates with an Empirical Prior](https://arxiv.org/pdf/2005.12496.pdf) (2020) *Eric Zelikman, Christopher Healy*
+
 ### Software
   - [Stan](https://mc-stan.org/)
   - BUGS
