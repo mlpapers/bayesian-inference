@@ -34,6 +34,8 @@
   - [The Variational Gaussian Approximation Revisited](http://www0.cs.ucl.ac.uk/staff/C.Archambeau/publ/neco_mo09_web.pdf) (2009) *Manfred Opper, Cedric Archambeau*
   - [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://proceedings.mlr.press/v32/titsias14.pdf) (2014) *Michalis K. Titsias, Miguel Lazaro-Gredilla*
   - [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) (2018) *David M. Blei, Alp Kucukelbir, Jon D. McAuliffe*
+- **SVGD** Stein Variational Gradient Descent
+  - [Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/pdf/1608.04471.pdf) (2019) *Qiang Liu, Dilin Wang*
 
 ### Gaussian processes
   - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) (2006) *Carl E. Rasmussen, Christopher K. I. Williams*
@@ -67,11 +69,14 @@
   - [Bambi](https://github.com/bambinos/bambi) - PyMC and Stan interface
   - [BRMP](https://github.com/pyro-ppl/brmp) - Pyro interface
 - **Julia**
+  - [BAT.jl](https://github.com/bat/BAT.jl/)
+  - [Gen](https://www.gen.dev/)
   - [Turing.jl](https://github.com/TuringLang/Turing.jl)
   - [Soss.jl](https://github.com/cscherrer/Soss.jl)
-  - [Gen](https://www.gen.dev/)
   - [DynamicPPL](https://github.com/TuringLang/DynamicPPL.jl)
 - **Javascript**
   - [WebPPL](https://github.com/probmods/webppl)
 - **Web**
   - [StatSim](https://statsim.com/)
+- **Installable**
+  - [JASP](https://jasp-stats.org/)
