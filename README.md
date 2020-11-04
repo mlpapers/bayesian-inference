@@ -5,6 +5,7 @@
 - Books
   - Free book on Bayesian Inference written in Jupyter Notebooks - [Bayesian Methods for Hackers](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/) *Cam Davidson-Pilon (the main author)*
   - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf) (2020) *Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin*
+- [Bayesian Workflow](https://arxiv.org/pdf/2011.01808.pdf) (2020) *Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák*
 
 ### Markov chain Monte Carlo (MCMC)
   - [Introduction to Markov Chain Monte Carlo](http://mcmchandbook.net/HandbookChapter1.pdf) (2011) *Charles Geyer*
